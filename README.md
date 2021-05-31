@@ -14,5 +14,7 @@ For the best experience it's best to add to make the script executable, and add 
 Otherwise you can create an alias in your .bash_profile or .zshrc for 
 `alias websiteinfo='python3 location/of/script.py'`
 
+To use the script properly you will require an IPInfo API key which you can get for [free](https://ipinfo.io/). Then paste this key into line 12 of the script.
+
 ### Usage
 Depending on how you've installed it usage will vary. As I'm not too versed with bash scripts, I'm open to any pull requests with automated setup scripts.

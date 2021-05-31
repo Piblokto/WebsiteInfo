@@ -1,0 +1,2 @@
+nslookup==1.4.0
+ipinfo==4.2.0
